@@ -38,3 +38,4 @@ class Command(BaseCommand):
         ])
 
         self.stdout.write(self.style.SUCCESS('Database populated with sample data using pymongo.'))
+#
